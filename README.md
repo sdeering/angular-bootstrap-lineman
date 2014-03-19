@@ -1,4 +1,4 @@
-AngularJS, Bootstrap, Lineman
+AngularJS & Bootstrap Demo with Lineman
 =========================
 
 Core:
