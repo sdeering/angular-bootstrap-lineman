@@ -1,6 +1,7 @@
 angular-bootstrap-lineman
 =========================
 
+Core:
 * LinemanJS - Development, Production Build Workflow with GruntJS.
 * AngularJS - Front-end Framework.
 * Bootstrap - With LESS and Angular-UI directives.
