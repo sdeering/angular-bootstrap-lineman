@@ -1,9 +1,9 @@
 angular-bootstrap-lineman
 =========================
 
-*LinemanJS - Development, Production Build Workflow with GruntJS.
-*AngularJS - Front-end Framework.
-*Bootstrap - With LESS and Angular-UI directives.
+* LinemanJS - Development, Production Build Workflow with GruntJS.
+* AngularJS - Front-end Framework.
+* Bootstrap - With LESS and Angular-UI directives.
 
 Features:
 * Angular Routing - Dynamic loading of data, rendering of ngTemplates between routes.
